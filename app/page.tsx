@@ -29,7 +29,6 @@ export default function Home() {
           color: "white",
           cursor: "pointer"
         }}
-        onClick={() => window.location.href = "/dashboard"}
       >
         Commencer
       </button>
