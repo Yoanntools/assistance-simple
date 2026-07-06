@@ -71,8 +71,7 @@ export default function Home() {
   );
 }
 
-const styles = {
-  container: {
+const styles: Record<string, React.CSSProperties> = {  container: {
     fontFamily: "Arial",
     background: "#0f172a",
     minHeight: "100vh",
