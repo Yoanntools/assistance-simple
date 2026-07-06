@@ -71,7 +71,7 @@ export default function Home() {
   );
 }
 
-const styles: any = {
+const styles = {
   container: {
     fontFamily: "Arial",
     background: "#0f172a",
